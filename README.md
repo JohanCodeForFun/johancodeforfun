@@ -10,7 +10,7 @@
 </p>
 
 ### About
--  **Working :**  Web Development :computer: | App :app: 
+-  **Working :**  Web Development :computer: | App :gear: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 
 
