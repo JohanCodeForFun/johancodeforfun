@@ -4,9 +4,9 @@
 <h3> Hello, I'm Johan Hellberg </h3>
 
 <p> 
-  <a href="https://jhellberg.com"><img alt="link to portfolio website" src="https://img.shields.io/badge/portfolio-website-9cf"></a>
+  <a href="https://jhellberg.com"><img alt="link to portfolio website" src="https://img.shields.io/badge/portfolio-website-brightgreen"></a>
     <a href="https://www.linkedin.com/in/johan-hellberg-805078167/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-Johan_Hellberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johan-hellberg-805078167/"></a>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-Johan_Hellberg-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johan-hellberg-805078167/"></a>
 </p>
 
 
