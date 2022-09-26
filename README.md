@@ -9,13 +9,16 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/-Johan_Hellberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johan-hellberg-805078167/"></a>
 </p>
 
+
+<!--
+
 ### About
 -  **Working :**  Web Development :computer: | App :gear: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 
 
 
-<!--
+
 
 **JohanCodeForFun/johancodeforfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
