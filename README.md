@@ -1,8 +1,18 @@
-<h1> Software Developer </h1>
-<h3> Hello, I'm Johan Hellberg </h3>
-<p>Organised and Ambitious developer who is open for a new position. I’m
+# Software Developer
+## Hello, I'm Johan Hellberg
+Organised and Ambitious developer who is open for a new position. I’m
 known for reliably writing high quality code and holding group projects
-together. Work well in groups and independently.</p>
+together. Work well in groups and independently.
+
+### Skills
+- Frontend: Vue - React - JavaScript - TypeScript 
+- Backend: Node.js - Express - Rust - C#
+- Databases: PostgreSQL - MongoDB
+- Version Control - Agile - SCRUM
+
+### Soft Skills
+- Organised - Project Management
+- Public Speaking - Mentor
 
 <p>Have a look at my certificates, projects and start a conversation if you think we would be a good fit. You can reach me at johan@jhellberg.com</p>
 
@@ -15,14 +25,6 @@ together. Work well in groups and independently.</p>
 </p>
 
 <!--
-
-### About
--  **Working :**  Improving software :computer: | App :gear: 
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
-
-
-
-
 
 **JohanCodeForFun/johancodeforfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
