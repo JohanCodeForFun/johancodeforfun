@@ -4,7 +4,7 @@
 known for reliably writing high quality code and holding group projects
 together. Work well in groups and independently.</p>
 
-<p>Have a look at my certificates and projects and start a conversation if you think we would be a good fit. You can reach me at johan@jhellberg.com</p>
+<p>Have a look at my certificates, projects and start a conversation if you think we would be a good fit. You can reach me at johan@jhellberg.com</p>
 
 <p> 
   <a href="https://jhellberg.com"><img alt="link to portfolio website" src="https://img.shields.io/badge/portfolio-website-brightgreen"></a><br>
