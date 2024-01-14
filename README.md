@@ -12,12 +12,14 @@ together. Work well in groups and independently.</p>
   <a href="https://leetcode.com/JohanCodeForFun/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/JohanCodeForFun/"></a><br>
 </p>
 
+<!--
+
 ### About
 -  **Working :**  Improving software :computer: | App :gear: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 
 
-<!--
+
 
 
 **JohanCodeForFun/johancodeforfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
