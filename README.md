@@ -1,7 +1,8 @@
-
 <h1> Software Developer </h1>
-
 <h3> Hello, I'm Johan Hellberg </h3>
+<p>Organised and Ambitious developer who is open for a new position. I’m
+known for reliably writing high quality code and holding group projects
+together. Work well in groups and independently.</p>
 
 <p> 
   <a href="https://jhellberg.com"><img alt="link to portfolio website" src="https://img.shields.io/badge/portfolio-website-brightgreen"></a><br>
