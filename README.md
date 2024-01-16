@@ -12,7 +12,7 @@ together. Work well in groups and independently.
 
 ### Soft Skills
 - Organised - Project Management
-- Public Speaking - Mentor
+- Mentor - Public Speaking
 
 <p>Have a look at my certificates, projects and start a conversation if you think we would be a good fit. You can reach me at johan@jhellberg.com</p>
 
