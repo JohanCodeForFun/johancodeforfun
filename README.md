@@ -5,7 +5,7 @@ known for reliably writing high quality code and holding group projects
 together. Work well in groups and independently.
 
 ### Skills
-- Frontend: Vue - React - JavaScript - TypeScript 
+- Frontend: React - Vue - JavaScript - TypeScript 
 - Backend: Node.js - Express - Rust - C#
 - Databases: PostgreSQL - MongoDB
 - Version Control - Agile - SCRUM
