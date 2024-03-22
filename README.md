@@ -1,8 +1,7 @@
 # Software Developer
-## Hello, I'm Johan Hellberg
 Experienced JavaScript developer skilled in crafting web integrated tools such as replacing legacy applications for customer service agents. Proven track record in delivering results, writing robust code, and managing group projects effectively. Proficient in building JavaScript applications and connecting databases like Postgres and MongoDB. Strong collaborator excelling both independently and within teams.
 
-### Skills
+## Skills
 - Frontend: React - Vue - JavaScript - TypeScript 
 - Backend: Node.js - Express - Rust - C#
 - Databases: PostgreSQL - MongoDB
