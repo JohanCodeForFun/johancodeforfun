@@ -3,7 +3,7 @@ Experienced JavaScript developer skilled in crafting web integrated tools such a
 
 ## Skills
 - Frontend: React - Vue - JavaScript - TypeScript 
-- Backend: Node.js - Express - Rust - C#
+- Backend: Node.js - Express - Rust - Go - C#
 - Databases: PostgreSQL - MongoDB
 - Version Control - Agile - SCRUM
 
