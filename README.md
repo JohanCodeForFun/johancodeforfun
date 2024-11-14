@@ -9,6 +9,7 @@ Experienced JavaScript developer skilled in crafting web integrated tools such a
 - Version Control - Agile - SCRUM
 
 ### Soft Skills
+- Educator for Technical Schools (YH)
 - Organised - Project Management
 - Mentor - Public Speaking
 
