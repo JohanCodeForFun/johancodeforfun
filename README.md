@@ -1,15 +1,19 @@
 # Software Developer
 Experienced JavaScript developer skilled in crafting web integrated tools such as replacing legacy applications for customer service agents. Proven track record in delivering results, writing robust code, and managing group projects effectively. Proficient in building JavaScript applications and connecting databases like Postgres and MongoDB. Strong collaborator excelling both independently and within teams.
 
-## Skills
+## Experience:
+- Educator for Technical Schools (YH)
+- Freelance cloud solutions
+- Freelance web developer
+
+### Skills
 - Frontend: React - Vue - JavaScript - TypeScript 
 - Backend: Node.js - Express - Rust - Go - C#
 - AWS Certified Cloud Practicioner
 - Databases: PostgreSQL - MongoDB
 - Version Control - Agile - SCRUM
 
-### Soft Skills
-- Educator for Technical Schools (YH)
+#### Soft Skills
 - Organised - Project Management
 - Mentor - Public Speaking
 
