@@ -1,44 +1,35 @@
 # Software Developer
-Experienced JavaScript developer skilled in crafting web integrated tools such as replacing legacy applications for customer service agents. Proven track record in delivering results, writing robust code, and managing group projects effectively. Proficient in building JavaScript applications and connecting databases like Postgres and MongoDB. Strong collaborator excelling both independently and within teams.
+Experienced JavaScript developer with expertise in crafting web-integrated tools, modernizing legacy systems, and optimizing workflows for scalability and efficiency. Proven success in delivering robust, maintainable code and leading collaborative projects in Agile environments. Proficient in full-stack development, connecting databases such as PostgreSQL and MongoDB, and designing cost-effective cloud solutions with AWS.
 
-## Experience:
-- Educator for Technical Schools (YH)
-- Freelance cloud solutions
-- Freelance web developer
+## Experience
+- **Educator for Technical Schools (YH)**  
+  Designed and taught curricula for full-stack JavaScript development, integrating AWS cloud services and modern frontend frameworks like React and Vue.  
+- **Freelance Cloud Solutions Engineer**  
+  Delivered scalable, cost-efficient AWS solutions, leveraging tools like Lambda, EC2 and Docker to meet client needs while reducing costs.  
+- **Freelance Web Developer**  
+  Redesigned websites to enhance user experience and functionality, integrating secure and efficient back-end services.  
+- **Full-Stack Engineering Intern at Hitta.se**  
+  Built and modernized services with Node.js, React, and TypeScript, incorporating automation tools like headless testing with Docker for robust workflows.  
 
-### Skills
-- Frontend: React - Vue - JavaScript - TypeScript 
-- Backend: Node.js - Express - Rust - Go - C#
-- AWS Certified Cloud Practicioner
-- Databases: PostgreSQL - MongoDB
-- Version Control - Agile - SCRUM
+## Skills
+- **Frontend**: React, Vue, JavaScript, TypeScript  
+- **Backend**: Node.js, Express, Rust, Go, C#  
+- **Cloud**: AWS (Certified Cloud Practitioner), Lambda, EC2, S3, Docker  
+- **Databases**: PostgreSQL, MongoDB  
+- **Other**: Version Control (Git), Agile, SCRUM, CI/CD  
 
-#### Soft Skills
-- Organised - Project Management
-- Mentor - Public Speaking
+### Soft Skills
+- Organized and efficient project management  
+- Experienced mentor and public speaker, delivering technical concepts with clarity  
 
-<p>Have a look at my certificates, projects and start a conversation if you think we would be a good fit. You can reach me at johan@jhellberg.com</p>
+---
+
+Explore my certifications, projects, and technical achievements:  
+📧 Reach me at [johan@jhellberg.com](mailto:johan@jhellberg.com)  
 
 <p> 
   <a href="https://jhellberg.com"><img alt="link to portfolio website" src="https://img.shields.io/badge/portfolio-website-brightgreen"></a><br>
   <a href="https://www.linkedin.com/in/johan-hellberg-805078167/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-Johan_Hellberg-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johan-hellberg-805078167/"></a><br>
-  
   <a href="https://leetcode.com/JohanCodeForFun/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/JohanCodeForFun/"></a><br>
 </p>
-
-<!--
-
-**JohanCodeForFun/johancodeforfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
