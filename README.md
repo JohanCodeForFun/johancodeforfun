@@ -15,7 +15,7 @@ Experienced JavaScript developer with expertise in crafting web-integrated tools
 - **Frontend**: React, Vue, JavaScript, TypeScript  
 - **Backend**: Node.js, Express, Rust, Go, C#  
 - **Cloud**: AWS (Certified Cloud Practitioner), Lambda, EC2, S3, Docker  
-- **Databases**: PostgreSQL, MongoDB  
+- **Databases**: PostgreSQL, MySQL, MongoDB  
 - **Other**: Version Control (Git), Agile, SCRUM, CI/CD  
 
 ### Soft Skills
