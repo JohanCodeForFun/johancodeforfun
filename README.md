@@ -1,5 +1,5 @@
 # Software Developer
-Experienced JavaScript developer with expertise in crafting web-integrated tools, modernizing legacy systems, and optimizing workflows for scalability and efficiency. Proven success in delivering robust, maintainable code and leading collaborative projects in Agile environments. Proficient in full-stack development, connecting databases such as PostgreSQL and MongoDB, and designing cost-effective cloud solutions with AWS.
+Built web-integrated tools to replace legacy systems, streamlining workflows for scalability and efficiency. Delivered robust, maintainable code while leading collaborative projects in Agile environments. Developed full-stack applications that seamlessly connect databases like PostgreSQL and MongoDB and designed cost-effective cloud solutions using AWS, optimizing performance and reducing infrastructure costs.
 
 ## Experience
 - **Educator for Technical Schools (YH)**  
