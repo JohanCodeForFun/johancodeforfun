@@ -5,7 +5,7 @@ Built web-integrated tools to replace legacy systems, streamlining workflows for
 - **Educator for Technical Schools (YH)**  
   Designed and taught curricula for full-stack JavaScript development, integrating AWS cloud services and modern frontend frameworks like React and Vue.  
 - **Freelance Cloud Solutions Engineer**  
-  Delivered scalable, cost-efficient AWS solutions, leveraging tools like Lambda, EC2 and Docker to meet client needs while reducing costs.  
+  Delivered scalable, cost-efficient AWS solutions, leveraging rigth sizing companies to see what tools will meet client needs such as: Lambdas, EC2 while reducing costs.  
 - **Freelance Web Developer**  
   Redesigned websites to enhance user experience and functionality, integrating secure and efficient back-end services.  
 - **Full-Stack Engineering Intern at Hitta.se**  
