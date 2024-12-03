@@ -9,7 +9,7 @@ Built web-integrated tools to replace legacy systems, streamlining workflows for
 - **Freelance Web Developer**  
   Redesigned websites to enhance user experience and functionality, to improve SEO and faster load-times.  
 - **Full-Stack Engineering Intern at Hitta.se**  
-  Built and modernized services with Node.js, React, and TypeScript, incorporating automation tools like headless testing with Docker for robust workflows.  
+  Built and modernized services with Node.js, React, and TypeScript, incorporating automation tools like headless testing for robust workflows.  
 
 ## Skills
 - **Frontend**: React, Vue, JavaScript, TypeScript  
