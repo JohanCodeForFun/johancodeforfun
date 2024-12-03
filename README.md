@@ -7,7 +7,7 @@ Built web-integrated tools to replace legacy systems, streamlining workflows for
 - **Freelance Cloud Solutions Engineer**  
   Delivered scalable, cost-efficient AWS solutions, leveraging rigth sizing companies to see what tools will meet client needs such as: Lambdas, EC2, Elastic Beanstalk, CodeGuru and Amplify, while reducing costs.  
 - **Freelance Web Developer**  
-  Redesigned websites to enhance user experience and functionality, integrating secure and efficient back-end services.  
+  Redesigned websites to enhance user experience and functionality, to improve SEO and faster load-times.  
 - **Full-Stack Engineering Intern at Hitta.se**  
   Built and modernized services with Node.js, React, and TypeScript, incorporating automation tools like headless testing with Docker for robust workflows.  
 
