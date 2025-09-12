@@ -1,5 +1,21 @@
-# Software Developer
-Built web-integrated tools to replace legacy systems, streamlining workflows for scalability and efficiency. Delivered robust, maintainable code while leading collaborative projects in Agile environments. Developed full-stack applications that seamlessly connect databases like PostgreSQL and MongoDB and designed cost-effective cloud solutions using AWS, optimizing performance and reducing infrastructure costs.
+# Application Security Engineer
+Application Security Engineer with a Full-Stack & AWS background — building and securing apps from code to cloud.
+
+With a foundation in React, Node.js, TypeScript, and databases (PostgreSQL, MongoDB), I understand applications from a developer’s perspective. Building on this, I’ve expanded into Application Security and Cloud Security to bridge the gap between developers and security teams.
+
+Need someone with the following skills on your team?
+- AppSec skills: OWASP Top 10, API testing, authentication flaws, SQLi/XSS/SSRF exploitation, Burp Suite workflows.
+- Cloud: AWS Certified Cloud Practitioner (CCP), working toward Solutions Architect (SAA-C03) and Security Specialty.
+- DevSecOps: Secure CI/CD pipelines with automated SAST, DAST, dependency & secrets scanning.
+- Pentesting mindset: Ongoing PortSwigger training (BSCP prep) and hands-on labs (TryHackMe, HackTheBox).
+
+Certifications (completed & in progress):
+- AWS CCP ✅
+- Burp Suite Certified Practitioner (Nov 2025 target)
+- AWS Solutions Architect – Associate (Dec 2025 target)
+- eWPT + OSWE (2026 roadmap)
+
+My goal: To combine development + AppSec + cloud expertise and help teams build secure products end-to-end.
 
 ## Experience
 - **Educator for Technical Schools (YH)**  
