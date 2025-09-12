@@ -3,7 +3,7 @@ Application Security Engineer with a Full-Stack & AWS background — building an
 
 With a foundation in React, Node.js, TypeScript, and databases (PostgreSQL, MongoDB), I understand applications from a developer’s perspective. Building on this, I’ve expanded into Application Security and Cloud Security to bridge the gap between developers and security teams.
 
-Need someone with the following skills on your team?
+Skills:
 - AppSec skills: OWASP Top 10, API testing, authentication flaws, SQLi/XSS/SSRF exploitation, Burp Suite workflows.
 - Cloud: AWS Certified Cloud Practitioner (CCP), working toward Solutions Architect (SAA-C03) and Security Specialty.
 - DevSecOps: Secure CI/CD pipelines with automated SAST, DAST, dependency & secrets scanning.
