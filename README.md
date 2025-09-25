@@ -16,12 +16,6 @@ Passionate about **security by design**, I mentor developers, lead secure code/d
 
 ---
 
-Perfect idea 🙌 — a **certification roadmap** shows recruiters that you’re not just resting on what you know, but actively investing in your career. Since Nasdaq values **DevSecOps, AppSec, Cloud, PenTesting, and Security Foundations**, we can organize your certs into a **timeline roadmap** (short-term → mid-term → long-term).
-
-Here’s a clean version you can put on your **CV, GitHub, or LinkedIn**:
-
----
-
 ### 🎯 Certification Roadmap
 
 **✅ Completed**
