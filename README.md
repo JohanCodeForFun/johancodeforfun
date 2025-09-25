@@ -1,42 +1,50 @@
-# Application Security Engineer
-Application Security Engineer with a Full-Stack & AWS background — building and securing apps from code to cloud.
+# 🔐 Application Security Engineer | DevSecOps & Cloud Security
 
-With a foundation in React, Node.js, TypeScript, and databases (PostgreSQL, MongoDB), I understand applications from a developer’s perspective. Building on this, I’ve expanded into Application Security and Cloud Security to bridge the gap between developers and security teams.
+I’m an **Application Security Engineer** with a background in **full-stack and cloud development**, now focused on helping teams **build and ship secure applications**. My expertise spans **secure SDLC, threat modeling, and DevSecOps automation** — from integrating **SAST/DAST/SCA into CI/CD** to hardening **IAM, MFA, and cloud workloads (AWS)**.
 
-Skills:
-- AppSec skills: OWASP Top 10, API testing, authentication flaws, SQLi/XSS/SSRF exploitation, Burp Suite workflows.
-- Cloud: AWS Certified Cloud Practitioner (CCP), working toward Solutions Architect (SAA-C03) and Security Specialty.
-- DevSecOps: Secure CI/CD pipelines with automated SAST, DAST, dependency & secrets scanning.
-- Pentesting mindset: Ongoing PortSwigger training (BSCP prep) and hands-on labs (TryHackMe, HackTheBox).
+Passionate about **security by design**, I mentor developers, lead secure code/design reviews, and continuously sharpen my skills through platforms like **PortSwigger Academy, HackTheBox, and AWS certifications**.
 
-Certifications (completed & in progress):
-- AWS CCP ✅
-- Burp Suite Certified Practitioner (Nov 2025 target)
-- AWS Solutions Architect – Associate (Dec 2025 target)
-- eWPT + OSWE (2026 roadmap)
+---
 
-My goal: To combine development + AppSec + cloud expertise and help teams build secure products end-to-end.
+## 🛠 Skills & Tools
 
-## Experience
-- **Educator for Technical Schools (YH)**  
-  Designed and taught curricula for full-stack JavaScript development, integrating AWS cloud services and modern frontend frameworks like React and Vue.  
-- **Freelance Cloud Solutions Engineer**  
-  Delivered scalable, cost-efficient AWS solutions, leveraging rigth sizing companies to see what tools will meet client needs such as: Lambdas, EC2, Elastic Beanstalk, CodeGuru and Amplify, while reducing costs.  
-- **Freelance Web Developer**  
-  Redesigned websites to enhance user experience and functionality, to improve SEO and faster load-times.  
-- **Full-Stack Engineering Intern at Hitta.se**  
-  Built and modernized services with Node.js, React, and TypeScript, incorporating automation tools like headless testing for robust workflows.  
+* **Application Security:** Threat Modeling, Secure Architecture Reviews, Secure SDLC, Web App Penetration Testing, Vulnerability Management, Burp Suite
+* **DevSecOps & Automation:** CI/CD Pipeline Security, SAST, DAST, SCA, Secrets Scanning, ASPM, Test Automation, Python/Shell
+* **Cloud Security:** AWS (CCP certified, SAA in progress), IAM Hardening, MFA, Infrastructure as Code (Terraform/CDK), Kubernetes/Helm, Logging & Monitoring (GuardDuty, CloudTrail)
+* **Software Development (foundation):** Node.js, TypeScript, React, Vue, Next.js, PostgreSQL, MongoDB, WordPress
+* **Collaboration & Leadership:** Security Culture Building, Developer Mentoring, Agile/SCRUM, Cross-functional Team Leadership
 
-## Skills
-- **Frontend**: React, Vue, JavaScript, TypeScript  
-- **Backend**: Node.js, Express, Rust, Go, C#  
-- **Cloud**: AWS (Certified Cloud Practitioner), Lambda, EC2, S3, Docker  
-- **Databases**: PostgreSQL, MySQL, MongoDB  
-- **Other**: Version Control (Git), Agile, SCRUM, CI/CD  
+---
 
-### Soft Skills
-- Organized and efficient project management  
-- Experienced mentor and public speaker, delivering technical concepts with clarity  
+## 💼 Experience
+
+### 🔹 Information Security Specialist & Cloud Educator (Aug 2024 – present)
+
+* Guided dev teams in **secure architecture reviews** with least privilege IAM, MFA, and encryption by default.
+* Integrated **SAST/DAST and automated security checks** into CI/CD pipelines to simulate real-world DevSecOps practices.
+* Mentored student developers to adopt **secure coding, design, and review processes** across projects.
+
+### 🔹 Web & Cloud Solutions Engineer (Jan 2024 – present)
+
+* Performed **threat modeling** for web applications (Next.js, WordPress), addressing risks in authentication, authorization, and plugins.
+* Delivered modern websites that improved usability and reliability while introducing secure coding and cloud deployment practices.
+* Developed cost-efficient cloud solutions in Amazon Web Services (AWS) by leveraging Right Sizing techniques to optimize infrastructure, achieving up to 60% reduction in resource costs.
+
+### 🔹 Project Lead (Aug 2023 – Oct 2023 & Jan 2024 – May 2024)
+
+* Led Agile team to deliver **secure Node.js/TypeScript + React services** with automated unit & headless testing.
+* Embedded **security practices into sprint workflows**, reducing vulnerabilities and improving reliability.
+* Enhanced **front-end usability and secure data flows** for internal teams.
+
+---
+
+## 🌟 Core Strengths
+
+* **Collaboration & Mentoring** → enabling dev teams to adopt secure coding and DevSecOps practices.
+* **Communication** → translating complex security risks into clear, actionable fixes for developers and stakeholders.
+* **Leadership** → coordinating teams and projects with a **security-first approach**.
+* **Problem Solving** → identifying risks early and embedding mitigations into design and code.
+* **Continuous Learning** → sharpening skills in AppSec, cloud, and penetration testing (BSCP, eWPT, AWS Security Specialty in progress).
 
 ---
 
