@@ -16,6 +16,31 @@ Passionate about **security by design**, I mentor developers, lead secure code/d
 
 ---
 
+Perfect idea 🙌 — a **certification roadmap** shows recruiters that you’re not just resting on what you know, but actively investing in your career. Since Nasdaq values **DevSecOps, AppSec, Cloud, PenTesting, and Security Foundations**, we can organize your certs into a **timeline roadmap** (short-term → mid-term → long-term).
+
+Here’s a clean version you can put on your **CV, GitHub, or LinkedIn**:
+
+---
+
+### 🎯 Certification Roadmap
+
+**✅ Completed**
+
+* AWS Certified Cloud Practitioner (2024)
+* AI – Organisation, Value, and Implementation (AI Sweden, 2024)
+
+**📌 In Progress / Short Term (2025)**
+
+* **Burp Suite Certified Practitioner (BSCP)** – Nov 2025
+* **AWS Solutions Architect – Associate (SAA-C03)** – Dec 2025
+* **Web Application Pentesting (TryHackMe)** – 2025
+
+**🚀 Mid Term (2026)**
+
+* **Offensive Security Web Expert (OSWE)** – 2026
+
+---
+
 ## 💼 Experience
 
 ### 🔹 Information Security Specialist & Cloud Educator (Aug 2024 – present)
