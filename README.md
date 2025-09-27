@@ -11,7 +11,7 @@ Passionate about **security by design** → mentoring developers, running secure
 
 * **AppSec** → Threat Modeling · Secure SDLC · Web App Testing · Burp Suite
 * **DevSecOps** → CI/CD Security · SAST/DAST/SCA · Secrets Scanning · Python/Shell
-* * **Full-Stack** → TypeScript/JavaScript · React · Vue · Node.js
+* **Full-Stack** → TypeScript/JavaScript · React · Vue · Node.js
 * **Cloud** → AWS (CCP ✅, SAA 📚) · IAM Hardening · Terraform/CDK · Kubernetes
 * **Collaboration** → Mentoring · Security Culture · Agile
 
