@@ -18,9 +18,9 @@ Passionate about **security by design** → mentoring developers, running secure
 
 ## 🎯 Current Focus
 
-📌 **Burp Suite Certified Practitioner (2025)**
-📌 **AWS Solutions Architect – Associate (2025)**
-📌 **Web App Pentesting Labs (2025)**
+- 📌 **Burp Suite Certified Practitioner (2025)**
+- 📌 **AWS Solutions Architect – Associate (2025)**
+- 📌 **Web App Pentesting Labs (2025)**
 
 ---
 
